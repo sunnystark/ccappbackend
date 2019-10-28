@@ -1,28 +1,22 @@
 {
-  "name": "vendor-crud-sample",
+  "name": "vendor-ccapp-backend",
   "version": "1.0.0",
-  "description": "Sample CRUD Application for Medium Post",
+  "description": "Sample CCAPPBACKEND Application ",
   "main": "app.js",
   "scripts": {
     "serve": "nodemon app.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/emanuelraj/vendor-crud-sample-medium-post.git"
-  },
+ 
   "keywords": [
     "React",
     "JS",
-    "CRUD",
+    "CCAPP",
     "Application",
     "Sample"
   ],
   "author": "Allen Emanuel Raj D",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/emanuelraj/vendor-crud-sample-medium-post/issues"
-  },
-  "homepage": "https://github.com/emanuelraj/vendor-crud-sample-medium-post#readme",
+
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "body-parser": "^1.18.3",
